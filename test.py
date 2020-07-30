@@ -1,3 +1,3 @@
 #Uploading python file
 
-print(Hello GITHUB)
+print("Hello GITHUB")
